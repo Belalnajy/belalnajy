@@ -93,53 +93,43 @@ Passionate and detail-oriented Full-Stack Developer specializing in Python, Djan
   </tr>
 </table>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belalnajy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalnajy&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=belalnajy&theme=tokyonight)](https://github.com/belalnajy)
-  
-</div>
-
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/belalnajy/clinic-management-system">
-    <img src="https://via.placeholder.com/300x150?text=Clinic+Management+System" alt="Clinic Management System" width="49%" />
-  </a>
-  <a href="https://github.com/belalnajy/inventory-management-system">
-    <img src="https://via.placeholder.com/300x150?text=Inventory+Management+System" alt="Inventory Management System" width="49%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/belalnajy/cinemascore">
-    <img src="https://via.placeholder.com/300x150?text=CinemaScore" alt="CinemaScore" width="49%" />
-  </a>
-  <a href="https://github.com/belalnajy/hospital-management-system">
-    <img src="https://via.placeholder.com/300x150?text=Hospital+Management+System" alt="Hospital Management System" width="49%" />
-  </a>
-</div>
-
+<div align="left">
+<h4>Clinic Management System</h4>
 <details>
   <summary>View Project Details</summary>
   
   ### Clinic Management System (ITI Graduation Project)
   A comprehensive web application for clinics to manage appointments, patients, and medical records. Built with React, Vite, Tailwind CSS, Django REST Framework, and PostgreSQL. Features include smart appointment scheduling, role-based access, AI chatbot integration, and real-time analytics dashboard.
   
-  ### Inventory Management System
-  A role-based inventory system built with Django, Python, and PostgreSQL. Features include real-time stock management, order processing, shipment tracking, and a stock alert system. The frontend uses HTML, CSS, JavaScript, and Bootstrap. Deployed on Railway.
-  
-  ### CinemaScore
-  A dynamic web application built with React and Bootstrap featuring movie/TV show lists, details, search, and wishlist functionality. Integrated with TMDB API for data, reviews, and recommendations. Supports multiple languages (English, Arabic, French, Chinese).
-  
-  ### Hospital Management System (HMS)
-  Developed using Odoo, this system manages patients, departments, and doctors with integrated records and assignments. Features include automated age calculation, state tracking with logs, and CRM email validation.
+  [Live Demo](https://clinic-project-2.vercel.app/login)
 </details>
+
+<h4>Inventory Management System</h4>
+<details>
+  <summary>View Project Details</summary>
+
+  A role-based inventory system built with Django, Python, and PostgreSQL. Features include real-time stock management, order processing, shipment tracking, and a stock alert system. The frontend uses HTML, CSS, JavaScript, and Bootstrap. Deployed on Railway.
+</details>
+
+<h4>CinemaScore</h4>
+<details>
+  <summary>View Project Details</summary>
+  A dynamic web application built with React and Bootstrap featuring movie/TV show lists, details, search, and wishlist functionality. Integrated with TMDB API for data, reviews, and recommendations. Supports multiple languages (English, Arabic, French, Chinese).
+
+  [Live Demo](https://movies-app-react-project-mocha.vercel.app/)
+</details>
+
+<h4>Movie Web Application</h4>
+<details>
+  <summary>View Project Details</summary>
+  Developed a dynamic movie web application using HTML, CSS, JavaScript, jQuery, and Tailwind CSS. Designed an engaging and responsive UI for browsing and viewing movie details. Integrated interactive features like search, filtering, and real-time updates.
+
+  [Live Demo](https://movieswebsiteproject.vercel.app/)
+</details>
+
+</div>
 
 ## 🎓 Certifications & Education
 
@@ -159,10 +149,9 @@ Passionate and detail-oriented Full-Stack Developer specializing in Python, Djan
 
 ## 📚 Currently Learning
 
-- **DevOps Tools** - Advancing my CI/CD pipeline and infrastructure as code skills
-- **Cloud Computing** - Focusing on AWS and Azure services
-- **Advanced React Patterns** - Component design patterns and state management
-- **API Design** - RESTful and GraphQL architectures
+- **Next.js** - Expanding my frontend and full-stack development capabilities
+- **Node.js** - Building scalable backend services and RESTful APIs
+- **TypeScript** - Enhancing code quality and developer experience
 
 ## 🔗 Connect With Me
 
